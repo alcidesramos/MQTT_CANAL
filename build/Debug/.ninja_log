@@ -1,0 +1,79 @@
+# ninja log v5
+158	1042	8161639513755276	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	53010169badda1d9
+78	529	8161642291720857	CMakeFiles/MQTT_BASICO.dir/Core/Src/stm32f4xx_it.c.obj	2d9a57c74c105287
+112	249	8161642289019011	CMakeFiles/MQTT_BASICO.dir/startup_stm32f401xc.s.obj	1448935f35e8f3c3
+95	336	8161642289878524	CMakeFiles/MQTT_BASICO.dir/Core/Src/sysmem.c.obj	8cd25c60e9e2e4cd
+53	978	8161639513303335	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	a20590cb7f97a0d4
+87	549	8161642291953595	CMakeFiles/MQTT_BASICO.dir/Core/Src/stm32f4xx_hal_msp.c.obj	8d0b9f1d7bb04a12
+123	914	8161639512903054	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	c4a13c46d68b131c
+102	1159	8161639514945717	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	12e306b1657454f8
+169	1064	8161639514085042	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	a8f1066c92084469
+103	462	8161642291097601	CMakeFiles/MQTT_BASICO.dir/Core/Src/syscalls.c.obj	f7a2a7667be3d04b
+136	994	8161639513679083	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	8033213c5318d1fd
+113	1064	8161639514368587	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	5faea2038c20b9a6
+92	1073	8161639514464785	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	50ee5dafa14d2709
+147	1090	8161639514642258	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	85482943213aba34
+71	624	8161642292765712	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+241	1105	8161639514794015	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	5e3b7d14fbf03228
+426	1150	8161639514703117	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	2e275df28398539e
+131	645	8161642292974599	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/UARTRX.c.obj	d4ed755ff413648
+82	1247	8161639515509378	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	90fe168985a260ae
+140	604	8161642292538280	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/UART_INT_DMA_IDLE.c.obj	45d2b15a88a7052b
+72	1277	8161639516420913	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj	53c11e574417eb3e
+62	1313	8161639516795152	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj	1ff8f2e5af7bdf18
+718	1416	8161639517931346	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	1a7be732dc658d6a
+915	1422	8161639517981792	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	84fd2b404fd557bc
+995	1628	8161639520067279	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	e04dd2438a18b663
+1029	1635	8161639520132956	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	21095ecc502d2ba0
+978	1899	8161639522739734	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	df81fe34821eb833
+725	1327	8161642296084046	MQTT_BASICO.elf	bb6ae85cf4862a17
+26	68	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+150	610	8161642292609265	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/adc_x.c.obj	bdec92d15d38353c
+160	629	8161642292817155	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/servos.c.obj	46ec112e5b3c218c
+171	648	8161642293010698	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/uart.c.obj	ef6b1b697c19146b
+121	725	8161642293786316	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/MQTT.c.obj	7d3717b1f01ddf4e
+18	53	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+93	241	8161642624584677	CMakeFiles/MQTT_BASICO.dir/startup_stm32f401xc.s.obj	1448935f35e8f3c3
+77	293	8161642625143483	CMakeFiles/MQTT_BASICO.dir/Core/Src/sysmem.c.obj	8cd25c60e9e2e4cd
+85	417	8161642626386560	CMakeFiles/MQTT_BASICO.dir/Core/Src/syscalls.c.obj	f7a2a7667be3d04b
+63	477	8161642626932627	CMakeFiles/MQTT_BASICO.dir/Core/Src/stm32f4xx_it.c.obj	2d9a57c74c105287
+70	502	8161642627230773	CMakeFiles/MQTT_BASICO.dir/Core/Src/stm32f4xx_hal_msp.c.obj	8d0b9f1d7bb04a12
+132	551	8161642627713337	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/adc_x.c.obj	bdec92d15d38353c
+121	553	8161642627738566	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/UART_INT_DMA_IDLE.c.obj	45d2b15a88a7052b
+56	560	8161642627783934	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+142	573	8161642627925950	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/servos.c.obj	46ec112e5b3c218c
+112	597	8161642628112826	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/UARTRX.c.obj	d4ed755ff413648
+153	620	8161642628407130	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/uart.c.obj	ef6b1b697c19146b
+103	681	8161642629048513	CMakeFiles/MQTT_BASICO.dir/Core/Src/Librerias/MQTT.c.obj	7d3717b1f01ddf4e
+681	1048	8161642631190956	MQTT_BASICO.elf	bb6ae85cf4862a17
+19	52	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+54	352	8161643145973562	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+352	761	8161643148226554	MQTT_BASICO.elf	bb6ae85cf4862a17
+19	51	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+10	42	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+45	339	8161643492353899	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+340	719	8161643494624092	MQTT_BASICO.elf	bb6ae85cf4862a17
+22	58	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+61	375	8161644082033746	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+375	801	8161644084415228	MQTT_BASICO.elf	bb6ae85cf4862a17
+23	60	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+12	48	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+50	357	8161645497419436	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+358	771	8161645499709612	MQTT_BASICO.elf	bb6ae85cf4862a17
+19	52	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+55	379	8161646884607354	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+380	832	8161646887177472	MQTT_BASICO.elf	bb6ae85cf4862a17
+22	63	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+66	410	8161647428939821	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+21	55	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+58	376	8161647499644660	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+376	804	8161647502027173	MQTT_BASICO.elf	bb6ae85cf4862a17
+22	59	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+61	379	8161648132053858	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+380	801	8161648134507236	MQTT_BASICO.elf	bb6ae85cf4862a17
+20	53	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+56	362	8161648937123853	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+362	805	8161648939729279	MQTT_BASICO.elf	bb6ae85cf4862a17
+23	72	0	C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/build/Debug/CMakeFiles/cmake.verify_globs	f1a3fbe0ac09e135
+75	411	8161651764736303	CMakeFiles/MQTT_BASICO.dir/Core/Src/main.c.obj	c965a8bcb7227734
+412	842	8161651767320394	MQTT_BASICO.elf	bb6ae85cf4862a17

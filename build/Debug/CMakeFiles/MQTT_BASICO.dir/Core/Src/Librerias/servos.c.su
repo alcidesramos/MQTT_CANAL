@@ -1,0 +1,5 @@
+C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/Core/Src/Librerias/servos.c:24:8:SERVO_init	8	static
+C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/Core/Src/Librerias/servos.c:31:6:SERVO_ANG	8	static
+C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/Core/Src/Librerias/servos.c:43:6:SERVO_MICRO	0	static
+C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/Core/Src/Librerias/servos.c:50:6:SERVO_MILI	0	static
+C:/Users/Alcides Ramos/Desktop/MQTT_CANAL/Core/Src/Librerias/servos.c:59:6:SERVO_MUEVE	24	static
